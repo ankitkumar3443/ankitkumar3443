@@ -76,5 +76,5 @@
 
 <a href = "https://www.linkedin.com/in/ankit-kumar-92113b201"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ankitkumar3443"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
-<a href = "https://wa.me/917277350695"><img src="https://th.bing.com/th/id/OIP.rmI65NED3pyjXQzlhG6rcAHaH0?pid=ImgDet&rs=1"/></a> 
+<a href = "https://wa.me/917277350695"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a> 
 </p>
